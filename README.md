@@ -5,11 +5,11 @@
 
 I’m originally from Sri Lanka. I live in The Netherlands and currently graduated as a Full Stack Developer from Codaisseur Academy.I have a Bachelor degree in Management Information Systems, and I have worked as a Business Analyst for few years. Then I decided to pursue my work towards my own business. I did operated a Sri Lankan Cuisine based home kitchen very passonately before the pandemic. In year 2022, I decidec to upskill my Information Technology knowledge with Software Development technologies. I am currently waiting for my opportinity to take the first step as a developer.  
 
-Learning new technologieas and experimenting. 
+In my free time I like to experiment, cook and eat differen cuisines. I am an avid Formula 1 fan 🏎️. In a good weather day I like to hike through mountains. Currently very much interested about trails in Eiffel mountain range. 
 
  <a href="https://www.linkedin.com/in/chathuweerasena/" target="blank"><img align="center" src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="20" /></a>
  
- # Tech Stack :file_cabinet:
+ ### Technologies where I have XP and work with: 📱 💻 🧪 
 
 <p>
 <img align="center" src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" height="20" />
