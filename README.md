@@ -1,9 +1,9 @@
-## Hello! I am Chathurika almost all of the time goes as Chathu.  😁😁😁
+### Hello! I am Chathurika, almost all of the time goes as Chathu.  😁😁😁
 
 ### About me 🇱🇰 🇱🇰
 
 
--   I’m Chathurika Weerasena. Originally from Sri Lanka and living in The Netherlands for 6 years now. I'm a Full Stack Web Developer and a Management Information Systems Graduate. I'm making my journey combining my tech skills and management skills. 
+I’m originally from Sri Lanka. I live in The Netherlands and currently graduated as a Full Stack Developer from Codaisseur Academy.I have a Bachelor degree in Management Information Systems, and I have worked as a Business Analyst for few years. Then I decided to pursue my work towards my own business. I did operated a Sri Lankan Cuisine based home kitchen very passonately before the pandemic. In year 2022, I decidec to upskill my Information Technology knowledge with Software Development technologies. I am currently waiting for my opportinity to take the first step as a developer.  
 
 Learning new technologieas and experimenting. 
 
