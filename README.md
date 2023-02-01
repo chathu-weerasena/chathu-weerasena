@@ -1,5 +1,6 @@
--  Hello there 👋 
+## Hello! I am Chathurika almost all of the time goes as Chathu.  😁😁😁
 
+### About me 🇱🇰 🇱🇰
 
 
 -   I’m Chathurika Weerasena. Originally from Sri Lanka and living in The Netherlands for 6 years now. I'm a Full Stack Web Developer and a Management Information Systems Graduate. I'm making my journey combining my tech skills and management skills. 
