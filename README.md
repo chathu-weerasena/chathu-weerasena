@@ -35,9 +35,9 @@ In my free time I like to experiment, cook and eat different cuisines. I am an a
 <img align="center" src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" height="20" />
 </p>
 
-<!-- ### GitHub Status
+### GitHub Status
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fc1da1123b1e98a9cade3afa83b892ccafa5b837746d5fa63a30196214684e35/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416c696e612d4b6f76616c657661266c61796f75743d636f6d706163742673686f775f69636f6e733d66616c7365267468656d653d7261646963616c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathu-weerasena&amp;layout=compact&amp;show_icons=false&amp;theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=navanjani&amp;layout=compact&amp;show_icons=false&amp;theme=radical" style="max-width: 100%;"></a> -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fc1da1123b1e98a9cade3afa83b892ccafa5b837746d5fa63a30196214684e35/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416c696e612d4b6f76616c657661266c61796f75743d636f6d706163742673686f775f69636f6e733d66616c7365267468656d653d7261646963616c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathu-weerasena&amp;layout=compact&amp;show_icons=false&amp;theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathu-weerasena&amp;layout=compact&amp;show_icons=false&amp;theme=radical" style="max-width: 100%;"></a>
 
 
 
