@@ -1,4 +1,4 @@
-### Hello! I am Chathurika, almost all of the time goes as Chathu.  😁😁😁
+### Hello! I am Chathurika, almost all the time goes as Chathu.  😁😁😁
 
 ### About me 🇱🇰 🇱🇰
 
